@@ -1,0 +1,23 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wks"
+  ],
+  "author": "zied",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "add-gitignore": "^1.1.1",
+    "dotenv": "^16.0.3",
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.9.1"
+  }
+}
